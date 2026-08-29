@@ -40,13 +40,13 @@ function setResultsTitle(type) {
             "تازه‌ها",
 
         popular:
-            "محبوب‌ها",
+            "پربازدید‌ها",
 
         "popular-video":
-            "محبوب‌ها",
+            "پربازدید‌ها",
 
         "popular-audio":
-            "محبوب‌ها",
+            "پربازدید‌ها",
 
         upcoming:
             "مناسبت‌های پیش‌رو",
